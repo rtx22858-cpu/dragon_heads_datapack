@@ -1,0 +1,1 @@
+{"display": {"title": "Dragon Heads Datapack","description": "Datapack loaded successfully!","icon": {"item": "dragon_head"},"background": "minecraft:textures/block/obsidian.png","show_toast": false,"announce_to_chat": false},"criteria": {"impossible": {"trigger": "minecraft:impossible"}}}

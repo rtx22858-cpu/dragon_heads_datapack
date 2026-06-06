@@ -1,0 +1,1 @@
+{"parent": "dragon_heads:root","display": {"title": "Death Detected","description": "Player died and inventory was filled","icon": {"item": "dragon_head"},"show_toast": true,"announce_to_chat": true},"criteria": {"died": {"trigger": "minecraft:player_killed_entity"}},"rewards": {"function": "dragon_heads:on_death"}}
